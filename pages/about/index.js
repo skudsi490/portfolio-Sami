@@ -101,11 +101,11 @@ const aboutData = [
     info: [
       {
         title: "Full Stack Development - TESI- The External Studies Institute",
-        stage: "Completion: 2024",
+        stage: "2024",
       },
       {
         title: "DevOps Engineering - TESI- The External Studies Institute",
-        stage: "Completion: 2024",
+        stage: "2024",
       },
     ],
   },

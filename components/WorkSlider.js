@@ -9,6 +9,11 @@ export const workSlider = {
           url: "https://mern-booking-webapp-235704ace9e5.herokuapp.com/",
         },
         {
+          title: "Complete DevOps Project",
+          path: "/CICD.png",
+          url: "https://github.com/skudsi490/ecommerce-django-react",
+        },
+        {
           title: "WonderX Online Courses React NextJS Typescript",
           path: "/wonderx.png",
           url: "https://wonderx-app.vercel.app/",
@@ -18,18 +23,13 @@ export const workSlider = {
           path: "/ecommerce.png",
           url: "https://ecommerce-vue-omega.vercel.app/",
         },
-        {
-          title: "title",
-          path: "/thumb4.jpg",
-          url: "https://project1.vercel.app",
-        },
       ],
     },
     {
       images: [
         {
-          title: "title",
-          path: "/thumb4.jpg",
+          title: "Chat App",
+          path: "/chatApp.png",
           url: "https://project1.vercel.app",
         },
         {

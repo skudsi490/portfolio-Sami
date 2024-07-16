@@ -57,12 +57,8 @@ const aboutData = [
     title: "Experience",
     info: [
       {
-        title: "DevOps Engineer - Plus500™",
+        title: "IT Administrator - Plus500™",
         stage: "Nov 2020 - Mar 2023",
-      },
-      {
-        title: "Intern - DevOps for Application Modernization Services - Atos",
-        stage: "Jul 2020 - Sep 2020",
       },
       {
         title: "Customer Service Agent - Capita Customer Solutions",

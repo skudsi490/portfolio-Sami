@@ -30,7 +30,7 @@ export const workSlider = {
         {
           title: "Chat App",
           path: "/chatApp.png",
-          url: "https://project1.vercel.app",
+          url: "https://github.com/skudsi490/chatApp",
         },
         {
           title: "VUE3 Expenses Tracker",

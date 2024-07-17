@@ -43,9 +43,9 @@ export const workSlider = {
           url: "https://adidas-store-react.vercel.app/",
         },
         {
-          title: "Bitcoin Price Tracker NEXTJS TailwindCSS",
-          path: "/bitcoin-coins-table-vercel-app.png",
-          url: "https://bitcoin-coins-table.vercel.app",
+          title: "Flutter Weather App (Mobile)",
+          path: "/WeatherApp.png",
+          url: "https://github.com/skudsi490/Mobile-Weather-App",
         },
       ],
     },

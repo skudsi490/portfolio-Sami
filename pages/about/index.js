@@ -60,18 +60,6 @@ const aboutData = [
         title: "IT Administrator - Plus500™",
         stage: "Nov 2020 - Mar 2023",
       },
-      {
-        title: "Customer Service Agent - Capita Customer Solutions",
-        stage: "Jul 2018 - Jun 2020",
-      },
-      {
-        title: "Technical Services Specialist - HOT",
-        stage: "Jan 2015 - Apr 2018",
-      },
-      {
-        title: "Technical Support Assistant - Bezeq",
-        stage: "Apr 2010 - Sep 2014",
-      },
     ],
   },
   {
@@ -81,18 +69,6 @@ const aboutData = [
         title:
           "Software Engineering (B.Sc.) - University of Europe for Applied Sciences",
         stage: "Expected Completion: 2026",
-      },
-      {
-        title: "MSc, Information Technology - Clark University",
-        stage: "2018 - 2020",
-      },
-      {
-        title: "MBA, Information Technology - Społeczna Akademia Nauk",
-        stage: "2018 - 2020",
-      },
-      {
-        title: "Bachelor of Laws (LL. B.) - Ono Academic College",
-        stage: "2014 - 2018",
       },
     ],
   },
@@ -171,13 +147,14 @@ const About = () => {
             exit="hidden"
             className="max-w-[500px] mx-auto xl:mx-0 mb-6 xl:mb-12 px-2 xl:px-0 z-10 relative"
           >
-            My professional journey, rooted in a diverse educational background,
-            has led me to the forefront of technology. With a Master&apos;
-            degree in IT, an MBA, and ongoing studies in Software Engineering, I
-            bring a rich blend of knowledge to the tech industry. Specializing
-            in Full Stack Development and DevOps, I am equipped with a
-            comprehensive skill set to address complex digital challenges. I am
-            not just preparing to join the tech world; I am ready to reshape it.
+            My journey into technology is just starting, supported by my current
+            studies in Software Engineering. As I develop skills in Full Stack
+            Development and DevOps, I&apos;m eager to apply what I&apos;ve
+            learned and grow in a professional environment. I&apos;m looking for
+            my a role where I can contribute, learn from experienced
+            colleagues, and be part of impactful projects. I&apos;m excited to
+            bring my passion for technology to a team that values growth and
+            innovation.
           </motion.p>
           {/* counters */}
 

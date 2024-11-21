@@ -6,7 +6,7 @@ export const workSlider = {
         {
           title: "MERN STACK BOOKING APP",
           path: "/booking-app.png",
-          url: "https://mern-booking-webapp-235704ace9e5.herokuapp.com/",
+          url: "https://github.com/skudsi490/MERN-STACK-BOOKING",
         },
         {
           title: "Complete DevOps Project",
